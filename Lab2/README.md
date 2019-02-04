@@ -1,3 +1,4 @@
+# **Support Vector Machines**
 Implementation of a Support Vector Machine for classification. A classifier which first makes an (optional) transformation of the input data, and then a linear separation where the decision boundary is placed to give maximal margins to the available data points.
 
 **Packages used:**

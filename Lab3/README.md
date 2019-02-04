@@ -1,3 +1,4 @@
+# **Bayes Classifiers and Boosting**
 Implementation of a Bayes Classifier and the Adaboost algorithm that improves the performance of a weak classifier by aggregating multiple hypotheses generated across different distributions of the training data. Three datasets for classification are been used where each dataset is provided in the form of two csv files: datasetnameX.txt for the feature vectors and datasetnameY.txt for the corresponding labels.
 
 **Datasets:**
